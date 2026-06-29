@@ -1,0 +1,1 @@
+# Ishikawa_Educampo_Monorepo
